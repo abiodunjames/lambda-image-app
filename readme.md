@@ -1,5 +1,5 @@
 ### About
-This is an image processing app built with serverless framework. It takes an image from a url, download and resize on the fly.
+This is an image processing app built with serverless framework. It takes an image from a url, download and resize on the fly and upload to an s3 bucket
 
 ### Install npm packages
 
