@@ -1,6 +1,10 @@
 ### About
 This is an image processing app built with serverless framework. It takes an image from a url, download and resize on the fly and upload to an s3 bucket
 
+## Purpose
+It was written to guide developers who want to get started using AWS Lambda.
+Read the article here https://stackify.com/aws-lambda-with-node-js-a-complete-getting-started-guide/
+
 ### Install npm packages
 
 ```bash
